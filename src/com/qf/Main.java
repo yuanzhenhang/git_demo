@@ -8,5 +8,6 @@ package com.qf;
 public class Main {
     public static void main(String[] args) {
         System.out.println("断剑重铸之日");
+        System.out.println("骑士归来之时");
     }
 }
